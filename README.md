@@ -6,7 +6,7 @@
 ## 🛠 Tech Stack
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
- <a href="https://solved.ac/profile/cjsrhd882](https://solved.ac/profile/tkdwls0418">
+ <a href="https://https://solved.ac/profile/tkdwls0418">
     <img height="215" src="http://mazassumnida.wtf/api/generate_badge?boj=cjsrhd882"/>
   </a>
 ## 📚 Education
